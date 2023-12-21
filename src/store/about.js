@@ -5,5 +5,5 @@ export default new Store({
   name: 'uniqueHan / benedictJHGil',
   email: 'benedictJHGil@gmail.com',
   github: 'https://github.com/benedictJHGil',
-  repository: 'https://github.com/benedictJHGil?tab=repositories'
+  repository: 'https://github.com/benedictJHGil/remove-movie-app'
 })
